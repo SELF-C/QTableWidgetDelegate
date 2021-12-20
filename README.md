@@ -1,0 +1,2 @@
+# QTableWidgetDelegate
+QTableWidgetのセルの入力にSpinBoxやComboboxを使う
